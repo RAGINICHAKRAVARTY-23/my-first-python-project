@@ -1,3 +1,4 @@
+# A program where three students marks are entered,their remarks and topper is displayed
 student_a = input("ENTER 1st STUDENT's NAME:")
 subjects = {
     "english" : int(input("ENTER YOUR MARKS IN ENGLISH:")),
