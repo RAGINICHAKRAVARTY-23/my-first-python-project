@@ -1,4 +1,4 @@
-words = input("Enter words: ").split()  # Makes a list of words
+words = input("Enter words: ").split()  # M
 for word in words:
     for letter in word:
         if letter == "e":
