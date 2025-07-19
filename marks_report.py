@@ -19,13 +19,13 @@ print("STUDENT's AVERAGE:" , average_a)
 a= ("REMARK:")
 if (average_a>90):
     print( a,"EXCELLENENT!")
-elif(average>80 and average<90):
+elif(average_a>80 and average_a<90):
     print(a,"GOOD!, KEEP TRYING.")
-elif (average>70 and average<80):
+elif (average_a>70 and average_a<80):
     print(a,"COULD DO BETTER.")
-elif(average>60 and average<70):
+elif(average_a>60 and average_a<70):
     print(a,"PASSED ON CONSIDERATION.")
-elif(average>50 and average<60):
+elif(average_a>50 and average_a<60):
     print(a,"WORK HARD. PASSED ON CONSIDERATION.")
 else:
     print(a,"FAIL.")
