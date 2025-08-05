@@ -16,4 +16,7 @@ Asks the user for income and monthly expenses, then calculates savings. Good pra
 ### 4. "marks_report.py"
 Takes subject-wise marks from the user, calculates total and percentage, and prints a basic marksheet report and also displays the topper.
 
+### 5. "Quiz - game"
+This is a 10 score quiz game where the user is asked to answer and gets scores based on the amswers.
+
 These are a collection of beginner-level Python scripts I built while teaching myself the fundamentals. Each file solves a basic real-life task using clean logic and simple input/output.
