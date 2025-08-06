@@ -19,4 +19,8 @@ Takes subject-wise marks from the user, calculates total and percentage, and pri
 ### 5. "Quiz - game"
 This is a 10 score quiz game where the user is asked to answer and gets scores based on the amswers.
 
+### 6. "guess number game"
+
+A simple Python game where the player tries to guess the number randomly chosen by the program.
+
 These are a collection of beginner-level Python scripts I built while teaching myself the fundamentals. Each file solves a basic real-life task using clean logic and simple input/output.
