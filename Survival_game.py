@@ -15,14 +15,15 @@ while a == "":
 else:
     print("You didn't press ENTER. Exiting game...")
     exit()
+print("-------LEVEL 1--------")
 
 # Initializing  score
 score = 0
 
 # First choice
-c1 = input("You see a zombie coming to you. Do you want to RUN or FIGHT? ").strip().lower()
+c1 = input("You see a zombie coming to you. Do you want to RUN or FIGHT? ")lower()
 while True:
-    c1 = input("You see a zombie coming to you. Do you want to RUN or FIGHT? ").strip().lower()
+    c1 = input("You see a zombie coming to you. Do you want to RUN or FIGHT? ")lower()
 
     if c1 == "run":
         print("---WRONG CHOICE-- You couldn’t run because many zombies were waiting to catch you.")
