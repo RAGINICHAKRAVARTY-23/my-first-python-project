@@ -21,13 +21,12 @@ print("-------LEVEL 1--------")
 score = 0
 
 # First choice
-c1 = input("You see a zombie coming to you. Do you want to RUN or FIGHT? ")lower()
 while True:
-    c1 = input("You see a zombie coming to you. Do you want to RUN or FIGHT? ")lower()
+    c1 = input("You see a zombie coming to you. Do you want to RUN or FIGHT? ").lower()
 
     if c1 == "run":
         print("---WRONG CHOICE-- You couldn’t run because many zombies were waiting to catch you.")
-        # Loop continues (asks again)
+        break
         
     elif c1 == "fight":
         print("---BRAVO-- You chose to fight! Smart move.")
@@ -42,4 +41,5 @@ while True:
 
 # Show score
 print(f"Your current score is: {score}")
-
+print("")
+print("-------LEVEL 2--------")
