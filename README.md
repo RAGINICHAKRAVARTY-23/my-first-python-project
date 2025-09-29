@@ -23,11 +23,8 @@ This is a 10 score quiz game where the user is asked to answer and gets scores b
 
 A simple Python game where the player tries to guess the number randomly chosen by the program.
 
-### 7. "mad limbs"
 
-This Python project takes user-provided words (nouns, verbs, adjectives) and inserts them into a pre-written story template
-
-### 9. "Survival Game
+### 8. "Survival Game
 
 A text-based Python survival game where the player must collect resources, avoid hazards, and make strategic decisions to survive as long as possible.
 
