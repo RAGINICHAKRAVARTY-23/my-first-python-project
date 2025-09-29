@@ -24,7 +24,7 @@ This is a 10 score quiz game where the user is asked to answer and gets scores b
 A simple Python game where the player tries to guess the number randomly chosen by the program.
 
 
-### 8. "Survival Game
+### 7. "Survival Game
 
 A text-based Python survival game where the player must collect resources, avoid hazards, and make strategic decisions to survive as long as possible.
 
