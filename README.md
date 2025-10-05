@@ -29,3 +29,8 @@ A simple Python game where the player tries to guess the number randomly chosen 
 A text-based Python survival game where the player must collect resources, avoid hazards, and make strategic decisions to survive as long as possible.
 
 These are a collection of beginner-level Python scripts I built while teaching myself the fundamentals. Each file solves a basic real-life task using clean logic and simple input/output.
+
+
+### 8. "The Rock - paper - scissors game
+
+ Thia is a simple Rock-Paper-Scissors game in Python with emoji-based choices, playable against the computer in the terminal.
