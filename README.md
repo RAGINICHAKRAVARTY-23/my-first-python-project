@@ -33,4 +33,10 @@ These are a collection of beginner-level Python scripts I built while teaching m
 
 ### 8. "The Rock - paper - scissors game
 
- Thia is a simple Rock-Paper-Scissors game in Python with emoji-based choices, playable against the computer in the terminal.
+ This is a simple Rock-Paper-Scissors game in Python with emoji-based choices, playable against the computer in the terminal.
+
+
+### 9. "Timed Math challenge 
+
+This is a simple command-line math quiz built with Python. It generates random addition, subtraction, and multiplication problems for the user to solve. The program tracks the total time taken to complete all questions and allows multiple attempts for each problem until the correct answer is given. It’s a quick way to practice basic arithmetic and improve speed.
+
