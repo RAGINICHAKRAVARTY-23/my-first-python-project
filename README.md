@@ -40,3 +40,6 @@ These are a collection of beginner-level Python scripts I built while teaching m
 
 This is a simple command-line math quiz built with Python. It generates random addition, subtraction, and multiplication problems for the user to solve. The program tracks the total time taken to complete all questions and allows multiple attempts for each problem until the correct answer is given. It’s a quick way to practice basic arithmetic and improve speed.
 
+### Password Strength checker
+
+A simple Python program that evaluates the strength of a password. It checks for the presence of digits, uppercase and lowercase letters, special characters, and minimum length (8 characters). Based on these criteria, it classifies passwords as STRONG, MEDIUM, or TOO WEAK, and provides suggestions to improve weak passwords.
