@@ -24,46 +24,46 @@ This is a 10 score quiz game where the user is asked to answer and gets scores b
 A simple Python game where the player tries to guess the number randomly chosen by the program.
 
 
-### 7. "Survival Game
+### 7. "Survival Game"
 
 A text-based Python survival game where the player must collect resources, avoid hazards, and make strategic decisions to survive as long as possible.
 
 These are a collection of beginner-level Python scripts I built while teaching myself the fundamentals. Each file solves a basic real-life task using clean logic and simple input/output.
 
 
-### 8. "The Rock - paper - scissors game
+### 8. "The Rock - paper - scissors game"
 
  This is a simple Rock-Paper-Scissors game in Python with emoji-based choices, playable against the computer in the terminal.
 
 
-### 9. "Timed Math challenge 
+### 9. "Timed Math challenge"
 
 This is a simple command-line math quiz built with Python. It generates random addition, subtraction, and multiplication problems for the user to solve. The program tracks the total time taken to complete all questions and allows multiple attempts for each problem until the correct answer is given. It’s a quick way to practice basic arithmetic and improve speed.
 
-### 10. Password Strength checker
+### 10. "Password Strength checker"
 
 A simple Python program that evaluates the strength of a password. It checks for the presence of digits, uppercase and lowercase letters, special characters, and minimum length (8 characters). Based on these criteria, it classifies passwords as STRONG, MEDIUM, or TOO WEAK, and provides suggestions to improve weak passwords.
 
-### 11. Python pizza diliveries
+### 11. "Python pizza diliveries"
 
 Python Pizza Delivery is a beginner-friendly Python program that simulates a pizza ordering system.
 The program asks the customer three questions to take their order, such as pizza size and extra toppings.
 
-### 12. Treasure Island game
+### 12. "Treasure Island game"
 
 Treasure Island is a text-based adventure game built using Python.
 The player starts on a mysterious island and must make the right choices to survive and find the hidden treasure. At each level, the player is asked to choose a direction or action.
 Correct choices increase the player’s score, while wrong choices can end the game immediately.
 
-### 13. Tip Calculator
+### 13. "Tip Calculator"
 
 Tip Calculator is a Python program that helps users calculate how much each person needs to pay when a bill is split among multiple people. The program asks the user for the total bill amount, the tip they want to give, and the number of people sharing the bill.
 
-### 14. Python Roller Coaster Ride
+### 14. "Python Roller Coaster Ride"
 
 This Python program checks if a user is eligible for a roller coaster ride based on height. It then calculates the ticket price according to age and adds extra cost if the user wants a photo.
 
-### 15. Password Generator
+### 15. "Password Generator"
 This program generates a random password based on user input. The user chooses how many letters, numbers, and symbols the password should contain. The program randomly selects characters, shuffles them to ensure randomness, and combines them into a secure password. It helped me practice Python concepts like lists, loops, user input, randomization, and string handling.
 
 ###---About This Repository-----
