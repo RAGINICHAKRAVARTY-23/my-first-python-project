@@ -43,3 +43,18 @@ This is a simple command-line math quiz built with Python. It generates random a
 ### 10. Password Strength checker
 
 A simple Python program that evaluates the strength of a password. It checks for the presence of digits, uppercase and lowercase letters, special characters, and minimum length (8 characters). Based on these criteria, it classifies passwords as STRONG, MEDIUM, or TOO WEAK, and provides suggestions to improve weak passwords.
+
+### 11. Python pizza diliveries
+
+Python Pizza Delivery is a beginner-friendly Python program that simulates a pizza ordering system.
+The program asks the customer three questions to take their order, such as pizza size and extra toppings.
+
+### 12. Treasure Island game
+
+Treasure Island is a text-based adventure game built using Python.
+The player starts on a mysterious island and must make the right choices to survive and find the hidden treasure. At each level, the player is asked to choose a direction or action.
+Correct choices increase the player’s score, while wrong choices can end the game immediately.
+
+### 13. Tip Calculator
+
+Tip Calculator is a Python program that helps users calculate how much each person needs to pay when a bill is split among multiple people. The program asks the user for the total bill amount, the tip they want to give, and the number of people sharing the bill.
