@@ -58,3 +58,7 @@ Correct choices increase the player’s score, while wrong choices can end the g
 ### 13. Tip Calculator
 
 Tip Calculator is a Python program that helps users calculate how much each person needs to pay when a bill is split among multiple people. The program asks the user for the total bill amount, the tip they want to give, and the number of people sharing the bill.
+
+### 14. Python Roller Coaster Ride
+
+This Python program checks if a user is eligible for a roller coaster ride based on height. It then calculates the ticket price according to age and adds extra cost if the user wants a photo.
