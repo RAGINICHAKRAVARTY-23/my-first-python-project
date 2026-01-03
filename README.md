@@ -63,7 +63,10 @@ Tip Calculator is a Python program that helps users calculate how much each pers
 
 This Python program checks if a user is eligible for a roller coaster ride based on height. It then calculates the ticket price according to age and adds extra cost if the user wants a photo.
 
-### 15. ---About This Repository-----
+### 15. Password Generator
+This program generates a random password based on user input. The user chooses how many letters, numbers, and symbols the password should contain. The program randomly selects characters, shuffles them to ensure randomness, and combines them into a secure password. It helped me practice Python concepts like lists, loops, user input, randomization, and string handling.
+
+###---About This Repository-----
 
 These are beginner-level Python projects created while learning core concepts like:
 -->Variables
