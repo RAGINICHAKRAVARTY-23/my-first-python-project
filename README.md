@@ -70,6 +70,11 @@ This program generates a random password based on user input. The user chooses h
 Hangman is a simple word-guessing game made using Python.In this game, a random word is selected, and the player has to guess the word one letter at a time.For every wrong guess, the player loses a life, and a hangman figure is drawn step by step.The game ends when the player either guesses the word correctly or runs out of lives.
 This project was created by me while learning Python basics like loops, conditions, lists, and user input.It helped me understand game logic and improve my problem-solving skills.
 
+### 17. "Caesar-Cipher"
+This project is based on the Caesar Cipher, one of the oldest and simplest encryption techniques.In this method, each letter in a message is shifted by a fixed number of positions in the alphabet.
+For example, if the shift value is 3, A becomes D, B becomes E, and Z wraps around to C.This wrapping is done using modulo logic so the alphabet continues in a cycle.
+The project takes a message and a shift value as input, then encrypts the message using this rule.
+It can also decrypt the message by shifting the letters back.
 ### "---About This Repository---"
 
 These are beginner-level Python projects created while learning core concepts like:
