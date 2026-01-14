@@ -75,6 +75,11 @@ This project is based on the Caesar Cipher, one of the oldest and simplest encry
 For example, if the shift value is 3, A becomes D, B becomes E, and Z wraps around to C.This wrapping is done using modulo logic so the alphabet continues in a cycle.
 The project takes a message and a shift value as input, then encrypts the message using this rule.
 It can also decrypt the message by shifting the letters back.
+
+### 18. "Silent Auction"
+This Python program is a secret auction system.It first displays an auction logo. Then it repeatedly asks users for their name and bid amount, storing each entry in a dictionary called bids. The program continues collecting bids until the user types "no". After that, the function find_highest_bidder() finds the highest bid using max() and prints the name of the person who placed it along with the winning amount.
+
+
 ### "---About This Repository---"
 
 These are beginner-level Python projects created while learning core concepts like:
