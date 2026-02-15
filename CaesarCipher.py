@@ -1,6 +1,7 @@
+import string
 from CaesarCipherart import art
 print(art)
-alphabet = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z',]
+alphabet = list(string.ascii_lowercase)
 
 print("*************************---->WELCOME TO CAESAR CIPHER<----*****************************")
 
@@ -30,4 +31,5 @@ while should_continue:
   if restart == 'no':
     should_continue = False
     print("Goodbye")
+
 
